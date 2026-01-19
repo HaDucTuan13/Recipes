@@ -1,0 +1,42 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    background-color: aquamarine;
+       
+}
+
+body {
+    padding: 0px 100px
+}
+
+.recipes-home {
+}
+
+.title {
+    text-align: center;
+    padding: 8px;
+    margin-bottom: 8px;
+}
+
+.recipes-link {
+    padding: 8px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+#home-link {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.recipes-img {
+    width: 400px;
+    height: auto;
+}
